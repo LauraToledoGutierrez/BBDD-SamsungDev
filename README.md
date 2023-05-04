@@ -17,6 +17,7 @@ CREATE TABLE USUARIO (
 );
 
 y para añadir valor a esos campos, la siguiente consulta:   
+
 INSERT INTO USUARIO (NOMBRE, APELLIDO, EMAIL)   
 VALUES ('Laura', 'Toledo', 'lauratoledogutierrez@gmail.com'),     
 ('Celia', 'Díaz', 'celia_diaz00@gmail.com'),     
